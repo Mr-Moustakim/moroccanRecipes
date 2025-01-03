@@ -7,9 +7,9 @@ My MoroccanRecipes project will introduce some of the famous recipes from my cou
 Our Moroccan menu will be structures as follow
         index.hmtl
                 \
-                |--Couscous_recipe.html
+                |--Couscous.html
                 |--Merouziya.html
-                |--Tajine
-                |--Harira
+                |--Tajine.html
+                |--Harira.html
 
                
