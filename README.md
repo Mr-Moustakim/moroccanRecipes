@@ -5,11 +5,11 @@ In this project, I aim to put into practice all the concepts I have been introdu
 My MoroccanRecipes project will introduce some of the famous recipes from my country.
 
 Our Moroccan menu will be structures as follow
-        index.hmtl
-                \
-                |--Couscous.html
-                |--Merouziya.html
-                |--Tajine.html
-                |--Harira.html
+        index.hmtl<br>
+                \<br>
+                |--Couscous.html<br>
+                |--Merouziya.html<br>
+                |--Tajine.html<br>
+                |--Harira.html<br>
 
                
